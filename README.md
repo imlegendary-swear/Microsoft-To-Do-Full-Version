@@ -238,4 +238,4 @@ This repository serves as the official landing page for Microsoft To-Do. The sof
 **Get the most recent version of Microsoft To-Do today!**
 
 ---
-**Last updated:** 2026-10-25 13:03:12 UTC
+**Last updated:** 2026-10-25 17:29:57 UTC
